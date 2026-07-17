@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial;
+    }
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    .btn {
+      background: #007bff;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 6px;
+      border: none;
+    }
+    .btn:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Meri Website</h1>
+  <button class="btn">Submit</button>
+</body>
+</html>
